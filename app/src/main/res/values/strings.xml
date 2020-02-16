@@ -3,4 +3,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="imageDescription">Image Description</string>
     <string name="start">Начать</string>
+    <string name="onboarding">Инструкция</string>
+
+    <string name="text_tutorial_1">Длинный текст инструкции номер 1, Длинный текст инструкции номер 1, Длинный текст инструкции номер 1</string>
+    <string name="text_tutorial_2">Длинный текст инструкции номер 2, Длинный текст инструкции номер 2, Длинный текст инструкции номер 2</string>
+    <string name="text_tutorial_3">Длинный текст инструкции номер 3, Длинный текст инструкции номер 3, Длинный текст инструкции номер 3</string>
+    <string name="text_tutorial_4">Длинный текст инструкции номер 4, Длинный текст инструкции номер 4, Длинный текст инструкции номер 4</string>
+
 </resources>
