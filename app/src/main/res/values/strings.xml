@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Onboarding Test</string>
     <string name="hello_world">Hello world!</string>
+    <string name="imageDescription">Image Description</string>
+    <string name="start">Начать</string>
 </resources>
